@@ -1,0 +1,5 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="}ZkMuG~iqG`2]fjC/7#z">pitch</variable><variable id="3qg!tQ(|FWn8Eclv#BaO">roll</variable><variable id="oy-#AU%6JsT9asrmCF}}">x</variable><variable id="l8!0B%QBxTNOl9TQSi]p">timeDown</variable><variable id="J$RGv]F6=wE_6k@JRj0M">timeUp</variable><variable id="mM`Q5P%)L]-tv9spdE08">timeTurn</variable><variable id="8WFmAd{W*G.iaH@o.]E[">centerRow</variable><variable id="jCg~{+?PsD0;j=,JSnp+">centerColumn</variable><variable id="s5sl{zqtQ$vemt/G6ud4">x2</variable><variable id=";k#MGtm*$a%=VB,nGuob">row</variable></variables><comment id="0@f|H+fyxLlfEGPl~w_g" x="1874" y="20" w="230" h="120">
+Таймер для наклона вниз
+</comment><comment id="%J%!,S~h5P8_6_pW5-ar" x="2149" y="20" w="240" h="120">
+Таймер для наклона вверх
+</comment></xml>
